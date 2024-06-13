@@ -1,0 +1,7 @@
+.schedule-table {
+    margin-top: 20px;
+  }
+  .schedule-table th,
+  .schedule-table td {
+    text-align: center;
+  }
